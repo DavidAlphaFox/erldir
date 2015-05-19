@@ -1,0 +1,1 @@
+  * Refactor DNS modules to use binary pattern matching
